@@ -1,4 +1,4 @@
-<img src="thumb.jpg" alt="This is a photo of Saad Ahmed" style="border-radius: 50px;">
+<img src="/thumb-modified.png" alt="This is a photo of Saad Ahmed" style="border-radius: 50px;">
 
 <h1 align="center">Hi 👋, I'm Saad Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
