@@ -11,16 +11,16 @@
 
 - 🌱 I’m currently learning **React, vue, Tailwind**
 
-- Project : [Base Conversation Calculator](https://GentleZen.github.io/Code/Calculator/index.html)
+- Project : [Base Conversation Calculator](https://oboshor.github.io/BaseConverter/)
 
 - 👨‍💻 ## All of my projects are available at
-- [[Base Conversation Calculator](https://GentleZen.github.io/Code/Calculator/index.html)]
+- [[Base Conversation Calculator](https://oboshor.github.io/BaseConverter/)]
 
 - 📫 How to reach me **m.saad.bd71@gmail.com**
 - My Portfolio [GentleZen](https://gentlezen.vercel.app/)
 
 - ⚡ Fun fact **I don't know about my self. Everyone says I'm funny 😊.**
-[![trophy](https://github-profile-trophy.vercel.app/?gentlezen=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?oboshor=ryo-ma&theme=onedark)](https://github.com/oboshor)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_saad_71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_saad_71" height="30" width="40" /></a>
