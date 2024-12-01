@@ -18,16 +18,15 @@
 
 <div align="center">
 <!--  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postman,c,python,bash,git,html,css,tailwindcss,bootstrap,wordpress,yarn&theme=dark"/> -->
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="27" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="27" alt="typescript logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="27" alt="express logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="30" alt="mongodb logo"  />
   <img width="5" />
@@ -46,12 +45,15 @@
   <img src="https://skillicons.dev/icons?i=markdown" height="30" alt="markdown logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="5" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="5" />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
+  <img width="5" />
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="30" alt="yarn logo"  />
 
 </div>
