@@ -49,7 +49,7 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="30" alt="yarn logo"  />
