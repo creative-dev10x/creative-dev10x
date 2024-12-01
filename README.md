@@ -83,13 +83,13 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="" alt="instagram logo"  />
   </a>
   
-###
+##
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Oboshor/Oboshor/output/snake.svg" alt="Snake animation" />
 
-###
+##
 
 <br clear="both">
 
