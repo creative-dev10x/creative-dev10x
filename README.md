@@ -18,7 +18,7 @@
 
 <div align="center">
 <!--  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postman,c,python,bash,git,html,css,tailwindcss,bootstrap,wordpress,yarn&theme=dark"/> -->
-  <a href="#" target="_blank">
+  <a href="#" style="text-decoration: none;" target="_blank">
   <img src="https://skillicons.dev/icons?i=javascript" height="27" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=typescript" height="27" alt="typescript logo"  />
