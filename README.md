@@ -20,7 +20,6 @@
 
 <div align="center">
 <!--  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postman,c,python,bash,git,html,css,tailwindcss,bootstrap,wordpress,yarn&theme=dark"/> -->
-  <a href="#">
   <img src="https://skillicons.dev/icons?i=javascript" height="27" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=typescript" height="27" alt="typescript logo"  />
@@ -58,7 +57,6 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
   <img width="5" />
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="30" alt="yarn logo"  />
-  </a>
 </div>
 
 ###
