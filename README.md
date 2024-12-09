@@ -20,6 +20,7 @@
 
 <div align="center">
 <!--  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postman,c,python,bash,git,html,css,tailwindcss,bootstrap,wordpress,yarn&theme=dark"/> -->
+  <a href="#">
   <img src="https://skillicons.dev/icons?i=javascript" height="27" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=typescript" height="27" alt="typescript logo"  />
@@ -57,7 +58,7 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
   <img width="5" />
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="30" alt="yarn logo"  />
-
+  </a>
 </div>
 
 ###
@@ -65,8 +66,10 @@
 <br clear="both">
 
 <div align="center">
+  <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=oboshor&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oboshor&hide_border=true&include_all_commits=true&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" alt="languages graph"  />
+  </a><a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oboshor&hide_border=true&include_all_commits=true&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" alt="languages graph"  /></a>
 </div>
 
 ###
@@ -97,8 +100,8 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Oboshor/Oboshor/output/snake.svg" alt="Snake animation" />
+<a href="#">
+<img src="https://raw.githubusercontent.com/Oboshor/Oboshor/output/snake.svg" alt="Snake animation" /></a>
 
 ###
 
