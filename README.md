@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h2 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="32" width="32"/><br><br>I'm Mahbub Hasan Saad</h2>
+<h2 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="32" width="32"/><br></h2>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+HR+Lijeva&size=27&pause=1000&color=FC9595&width=435&lines=I'm+Saad.+;I'm+JavaScript+developer.+" alt="Typing SVG" /></a>
 
 ###
 
