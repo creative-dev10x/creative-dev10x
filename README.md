@@ -4,22 +4,16 @@
 <br>
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+HR+Lijeva&size=27&pause=1000&color=FC4273&center=true&vCenter=true&width=435&lines=I'm+Mahbub+Hasan+Saad.+;JavaScript+Developer.+;Jr.+Full+stack+at+MERN" alt="Typing SVG" /></a>
 
-###
-
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="/thumb-modified.png"/>
+  <img height="200" src="https://raw.githubusercontent.com/Oboshor/Oboshor/refs/heads/main/thumb-modified.png"/>
 </div>
-
-###
 
 <p align="center">Next-Gen Software Engineer</p>
 
-###
 
 <div align="center">
-<!--  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postman,c,python,bash,git,html,css,tailwindcss,bootstrap,wordpress,yarn&theme=dark"/> -->
   <img src="https://skillicons.dev/icons?i=javascript" height="27" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=typescript" height="27" alt="typescript logo"  />
@@ -59,8 +53,6 @@
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="30" alt="yarn logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -69,8 +61,6 @@
   </a><a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oboshor&hide_border=true&include_all_commits=true&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" alt="languages graph"  /></a>
 </div>
-
-###
 
 <div align="center">
   <a href="mailto:m.saad.bd.71@gmail.com" target="_blank">
@@ -94,19 +84,13 @@
   <a href="https://www.instagram.com/m.saad.7x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="" alt="instagram logo"  />
   </a>
-  
-###
 
 <br clear="both">
 <a href="#">
 <img src="https://raw.githubusercontent.com/Oboshor/Oboshor/output/snake.svg" alt="Snake animation" /></a>
-
-###
 
 <br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Oboshor.Oboshor&right_color=coral"  />
 </div>
-
-###
