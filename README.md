@@ -91,15 +91,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Oboshor.Oboshor&right_color=coral"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Oboshor.Oboshor&right_color=coral" />
 </div>
-<style>
-  /* Light Mode Styles (default) */
-body {
-  background-color: #1e1e1e;
-  color: #f0f0f0;
-}
-body {
-  transition: background-color 0.3s, color 0.3s;
-}
-</style>
