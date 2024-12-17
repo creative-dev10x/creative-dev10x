@@ -3,15 +3,7 @@ body {
   background-color: #0D1117;
   color: #e0e0e0;
 }
-body {
-  transition: background-color 0.3s, color 0.3s;
-}
 
-div{
-  margin: 0;
-  padding: 0;
-}
-
-img {
-  background-color: transparent;
+.markdown-body img {
+  background-color: #0D1117 !important
 }
