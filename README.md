@@ -1,4 +1,3 @@
-<body class="">
 <br clear="both">
 <h2 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="32" width="32"/><br></h2>
 <br>
@@ -94,4 +93,13 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Oboshor.Oboshor&right_color=coral"  />
 </div>
-</body>
+<style>
+  /* Light Mode Styles (default) */
+body {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+</style>
