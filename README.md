@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Oboshor/Oboshor/refs/heads/main/thumb-modified.png"/>
+  <img height="200" src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/refs/heads/main/thumb-modified.png"/>
 </div>
 
 <p align="center">Next-Gen Software Engineer</p>
@@ -55,9 +55,9 @@
 
 <div align="center">
   <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=oboshor&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahbubHS&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
   </a><a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oboshor&hide_border=true&include_all_commits=true&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" alt="languages graph"  /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahbubHS&hide_border=true&include_all_commits=true&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" alt="languages graph"  /></a>
 </div>
 
 <div align="center">
@@ -85,10 +85,10 @@
 
 <br clear="both">
 <a href="#">
-<img src="https://raw.githubusercontent.com/Oboshor/Oboshor/output/snake.svg" alt="Snake animation" /></a>
+<img src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/output/snake.svg" alt="Snake animation" /></a>
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Oboshor.Oboshor&right_color=coral" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahbubHS.MahbubHS&right_color=coral" />
 </div>
