@@ -70,16 +70,16 @@
   <a href="https://www.hackerrank.com/profile/m_saad_bd_71" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/saad-ahmed-8b1246301" target="_blank">
+  <a href="https://www.linkedin.com/in/xMahbubHS" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" height="" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/m.saad.7x" target="_blank">
+  <a href="https://www.facebook.com/xMahbubHS" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="" alt="facebook logo"  />
   </a>
-  <a href="https://x.com/m_saad_71" target="_blank">
+  <a href="https://x.com/xMahbubHS" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="" alt="x logo"  />
   </a>
-  <a href="https://www.instagram.com/m.saad.7x" target="_blank">
+  <a href="https://www.instagram.com/xMahbubHS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="" alt="instagram logo"  />
   </a>
 
